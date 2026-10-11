@@ -1,3 +1,4 @@
+HEAD
 # Video Club
 
 ## Descripción del proyecto
@@ -79,3 +80,7 @@ La licencia del proyecto se definirá de acuerdo con las indicaciones académica
 ## Agradecimientos
 
 Se agradece al docente por proporcionar las indicaciones y la plantilla utilizadas para documentar el proyecto.
+
+# video-club
+Proyecto académico para el registro y consulta de películas.
+ 79809dc7df27f298c6a4e831ffd1dd3531a72e55
