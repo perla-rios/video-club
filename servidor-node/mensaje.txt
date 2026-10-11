@@ -1,0 +1,3 @@
+Hola mundo desde un archivo de texto.
+
+Este archivo sera leido de forma sincronica por un servidor desarrollado con Node.js y enviado al navegador web.
